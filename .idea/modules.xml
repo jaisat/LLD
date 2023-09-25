@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory Example/Abstract Factory Example.iml" filepath="$PROJECT_DIR$/Abstract Factory Example/Abstract Factory Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory Method/Factory Method.iml" filepath="$PROJECT_DIR$/Factory Method/Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simple Factory/Simple Factory.iml" filepath="$PROJECT_DIR$/Simple Factory/Simple Factory.iml" />
