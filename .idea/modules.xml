@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract Factory Example/Abstract Factory Example.iml" filepath="$PROJECT_DIR$/Abstract Factory Example/Abstract Factory Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder Design Pattern/Builder Design Pattern.iml" filepath="$PROJECT_DIR$/Builder Design Pattern/Builder Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command DP/Command DP.iml" filepath="$PROJECT_DIR$/Command DP/Command DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory Method/Factory Method.iml" filepath="$PROJECT_DIR$/Factory Method/Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command DP/NewWay/NewWay.iml" filepath="$PROJECT_DIR$/Command DP/NewWay/NewWay.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Design Pattern/Observer Design Pattern.iml" filepath="$PROJECT_DIR$/Observer Design Pattern/Observer Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype Design Pattern/Prototype Design Pattern.iml" filepath="$PROJECT_DIR$/Prototype Design Pattern/Prototype Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simple Factory/Simple Factory.iml" filepath="$PROJECT_DIR$/Simple Factory/Simple Factory.iml" />
