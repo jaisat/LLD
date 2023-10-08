@@ -29,6 +29,7 @@ class ActionOpenCommand implements ActionListenerCommand{
     }
 }
 
+// Receiver
 class Document{
     public void open(){
         System.out.println("Opening the doc");
@@ -39,6 +40,7 @@ class Document{
     }
 }
 
+// Invoker
 class MenuOptions{
     List<ActionListenerCommand> commands = new ArrayList<>();
 
